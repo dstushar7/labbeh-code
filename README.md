@@ -1,7 +1,7 @@
 # Participant of Robo Wrestling in Bit ArenaV2. 2017 at North South University, Bangladesh. 
 ## We named our bot Labbeh. She was a good bot until she died 2 years ago.
 
-The Bot's code is given below.
+The Bot's code is given in labbeh_code.ino
 
 Instruments we used :
 1. One Arduino Mega
